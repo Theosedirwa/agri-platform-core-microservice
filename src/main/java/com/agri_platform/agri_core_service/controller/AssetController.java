@@ -30,6 +30,7 @@ public class AssetController {
     	 log.info("AssetController");
     	 log.info("AssetController");
     	 log.info("AssetController");
+    	 log.info("AssetController");
         return "blank";
     }
     

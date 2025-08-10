@@ -27,10 +27,8 @@ public class AssetController {
 
      @GetMapping("/blank")
     public String hello() {
-    	 log.info("AssetController");
-    	 log.info("AssetController");
-    	 log.info("AssetController");
-    	 log.info("AssetController");
+    	 log.info("AssetController 2222");
+    	
         return "blank";
     }
     
